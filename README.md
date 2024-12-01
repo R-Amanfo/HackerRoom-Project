@@ -50,4 +50,4 @@ If you'd like to contribute to HackerRoom, please follow these guidelines:
 3. Submit a pull request
 
 ## Acknowledgements
-HackerRoom was built by Samuel Badru, Ayoub El-hamdoon, Liza Ebadi, and Destin Cleo Kouamba for the purpose of learning Python. We would like to thank Dilan Patel and Rebecca Monica Amanfo for their help with planning this project. We would also like to thank John Forster for their guidance and support. 
+HackerRoom was built by Rebecca Monica Amanfo. I would like to thank John Forster for their guidance and support. 
